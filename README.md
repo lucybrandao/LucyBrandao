@@ -2,7 +2,7 @@
 
 I'm a Web Developer, Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-🔭 If you wanna see me:
+🔭 If you wanna meet me:
 
 [![Website](https://img.shields.io/badge/www-lucybrandao.com-white)](http://www.lucybrandao.com/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Lucy_Brandão-blue)](https://www.linkedin.com/in/lucy-brandao/)
