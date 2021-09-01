@@ -4,7 +4,7 @@ I'm a Web Developer, Lorem Ipsum is simply dummy text of the printing and typese
 
 🔭 If you wanna meet me:
 
-[![Website](https://img.shields.io/badge/www-lucybrandao.com-white)](http://www.lucybrandao.com/)
+[![Website](https://img.shields.io/badge/www-lucybrandao.com-purple)](http://www.lucybrandao.com/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Lucy_Brandão-blue)](https://www.linkedin.com/in/lucy-brandao/)
 [![Instagram](https://img.shields.io/badge/Instagram-@lucebrandao-E4405F)](http://www.instagram.com/lucebrandao)
 
