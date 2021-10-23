@@ -6,7 +6,6 @@ I'm a Web Developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, se
 
 [![Website](https://img.shields.io/badge/www-lucybrandao.com-purple)](http://www.lucybrandao.com/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Lucy_Brandão-blue)](https://www.linkedin.com/in/lucy-brandao/)
-[![Instagram](https://img.shields.io/badge/Instagram-@lucebrandao-E4405F)](http://www.instagram.com/lucebrandao)
 
 <!--
 **LucyBrandao/LucyBrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
